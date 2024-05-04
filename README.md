@@ -8,3 +8,4 @@
 [https://github.com/Akshay2306/Batch5_AI-ML/blob/main/assignment_7.ipynb]
 [https://github.com/Akshay2306/Batch5_AI-ML/blob/main/Assignment_8.ipynb]
 [https://github.com/Akshay2306/Batch5_AI-ML/blob/main/Assignment_9.ipynb]
+[https://github.com/Akshay2306/Batch5_AI-ML/blob/main/Assignment_10.ipynb]
